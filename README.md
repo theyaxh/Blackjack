@@ -6,8 +6,3 @@ The starting and ending of the program is handled by the main function while the
 misc and welcome_screen are nothing but to add a fancy touch to the code at the runtime.
 Stack_implementation deals with the push and popping of the cards from the stack of cards, stack is used as this was a project in my college for data structure 
 subject and had to use a data structure in the project. Alternative for this is just taking the cards from the deck array directly.
-
-Some parts of the playing logic were inspired from a git rep.
-
-Thankyou for reading, hope you enjoy the game!
-Do share your valuable feedback.
